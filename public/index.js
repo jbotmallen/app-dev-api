@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          identifier: "Mallen123",
+          identifier: "my-username-123",
           password: "123456789",
         }),
       });
@@ -39,8 +39,8 @@ document.addEventListener("DOMContentLoaded", () => {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          email: "markosallenus@gmail.com",
-          username: "Mallen123",
+          email: "example@host.com",
+          username: "my-username-123",
           password: "123456789",
         }),
       });
