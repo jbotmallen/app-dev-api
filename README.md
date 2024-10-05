@@ -16,8 +16,8 @@ This is the backend API for our application. It handles user authentication, rat
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/your-repo/backend-api.git
-    cd backend-api
+    git clone [https://github.com/jbotmallen/app-dev-api/]
+    cd app-dev-api
 
 2. Install dependencies:
     npm install
